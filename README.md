@@ -117,12 +117,3 @@ diplodatos-2023/
 | Entorno | `Jupyter Notebook`, `Google Colab` |
 
 ---
-
-## Autor
-
-**Ruben Alfredo Mendoza**  
-Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones · Edición 2023  
-FaMAFyC · Universidad Nacional de Córdoba
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/tu-usuario)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/tu-usuario)
